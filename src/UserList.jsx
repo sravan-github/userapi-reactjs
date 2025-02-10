@@ -18,7 +18,7 @@ const UserList = () => {
   }, []);
 
   return (
-    <div className="container">
+    <div className="table-container">
       <h2>User List</h2>
       <table border="1" cellPadding="10">
         <thead>
